@@ -1,0 +1,6 @@
+1) Read data from LiChess
+2) Write to sheet
+3) Create sheet if not exist
+4) Logger
+5) Save user data to reuse
+6) Accounts and authentication
